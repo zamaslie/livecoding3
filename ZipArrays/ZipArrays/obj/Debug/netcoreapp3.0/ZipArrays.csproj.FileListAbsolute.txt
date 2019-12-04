@@ -1,0 +1,11 @@
+C:\Users\Zamaslie\Desktop\lc101\livecoding3\.vs\ZipArrays\ZipArrays\bin\Debug\netcoreapp3.0\ZipArrays.exe
+C:\Users\Zamaslie\Desktop\lc101\livecoding3\.vs\ZipArrays\ZipArrays\bin\Debug\netcoreapp3.0\ZipArrays.deps.json
+C:\Users\Zamaslie\Desktop\lc101\livecoding3\.vs\ZipArrays\ZipArrays\bin\Debug\netcoreapp3.0\ZipArrays.runtimeconfig.json
+C:\Users\Zamaslie\Desktop\lc101\livecoding3\.vs\ZipArrays\ZipArrays\bin\Debug\netcoreapp3.0\ZipArrays.runtimeconfig.dev.json
+C:\Users\Zamaslie\Desktop\lc101\livecoding3\.vs\ZipArrays\ZipArrays\bin\Debug\netcoreapp3.0\ZipArrays.dll
+C:\Users\Zamaslie\Desktop\lc101\livecoding3\.vs\ZipArrays\ZipArrays\bin\Debug\netcoreapp3.0\ZipArrays.pdb
+C:\Users\Zamaslie\Desktop\lc101\livecoding3\.vs\ZipArrays\ZipArrays\obj\Debug\netcoreapp3.0\ZipArrays.csprojAssemblyReference.cache
+C:\Users\Zamaslie\Desktop\lc101\livecoding3\.vs\ZipArrays\ZipArrays\obj\Debug\netcoreapp3.0\ZipArrays.AssemblyInfoInputs.cache
+C:\Users\Zamaslie\Desktop\lc101\livecoding3\.vs\ZipArrays\ZipArrays\obj\Debug\netcoreapp3.0\ZipArrays.AssemblyInfo.cs
+C:\Users\Zamaslie\Desktop\lc101\livecoding3\.vs\ZipArrays\ZipArrays\obj\Debug\netcoreapp3.0\ZipArrays.dll
+C:\Users\Zamaslie\Desktop\lc101\livecoding3\.vs\ZipArrays\ZipArrays\obj\Debug\netcoreapp3.0\ZipArrays.pdb
